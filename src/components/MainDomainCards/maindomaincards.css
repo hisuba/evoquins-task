@@ -1,0 +1,111 @@
+.maindomain-container{
+    background-color: rgb(198, 167, 226);
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+   
+}
+
+.maindomaincards-container{
+    display: flex;
+    justify-content: space-around;
+   
+
+}
+.maindomaincards-container .card{
+    margin: 30px;
+    height: 23vh;
+    width: 55vh;
+    border-radius: 20px;
+  
+}
+
+h5{
+    margin: 10px;
+}
+
+span #glob{
+    font-size: 5px;
+}
+.globe{
+    font-size: 20px;
+    color:#FFB534;
+}
+.glob{
+    font-size: 20px;
+    color: rgb(206, 37, 211);
+}
+
+.bi-check-circle-fill{
+    color: rgb(0, 255, 26);
+    font-size: 15px;
+    margin: 2px;
+}
+li{
+    list-style: none;
+
+}
+
+li span{
+    font-weight: bold;
+}
+
+.bi-arrow-right-circle{
+    color: blue;
+    font-size: 25px;
+    margin-left: 70px;
+}
+
+#card{
+    margin: 30px;
+    height: 23vh;
+    width: 55vh;
+    border-radius: 20px;
+  
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: rgb(112, 30, 205) ;
+    border: 0.5px dashed rgb(112, 30, 205);
+}
+
+.table{
+    margin: 20px;
+   
+border: white;
+width: 80vw;
+
+}
+.secondary-domains{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+  
+}
+.tdata{
+    font-weight: 500;
+}
+.table th{
+    color: rgb(196, 188, 188);
+}
+
+.table .more{
+    font-weight: 500;
+    color: rgb(34, 83, 209);
+}
+
+.recommended-domains-card{
+
+margin-left: 140px;
+
+
+}
+.recommended-domains-card  .card{
+width: 65rem;
+}
+

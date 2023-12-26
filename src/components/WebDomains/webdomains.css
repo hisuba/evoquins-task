@@ -1,0 +1,164 @@
+.web-container{
+        margin-top: 25px;
+        justify-content: center;
+        display: flex;
+        width: 1028px;
+        flex-direction: column;
+        margin-left: 200px;
+        
+       
+        
+     
+       
+        
+   
+    
+}
+
+.chart-container{
+       
+        display: flex;
+        
+     margin-left: 90px;
+        }
+
+
+.main-charts{
+       margin: 20px;
+}
+
+.bar-charts .barcard{
+        
+     margin: 10px;
+        
+        display: flex;
+        justify-content: center;
+    align-items: center;
+        width: 370px;
+        height: 250px;
+}
+.bar-charts{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+.barcard{
+        display: flex;
+        justify-content: center;
+        
+}
+
+
+#main-header{
+        background-color: none;
+        
+}
+
+
+
+.card-header-left{
+        background-color: none;
+}
+
+.bi-circle-fill{
+        font-size: 15px;
+}
+.color{
+        margin-top: 30px;
+        font-weight: 600;
+        font-size: 10px;
+        color: rgb(194, 188, 188);
+}
+.card-text{
+        font-weight: 600;
+     margin-right: 150px;
+     margin-top: 20px;
+}
+.main-social{
+        display: flex;
+       margin-left: 50px;
+       margin-bottom: 20px;
+     
+}
+.social-cards{
+  margin: 10px;
+  margin-top: 20px;
+}
+.social-card{
+        width: 300px;
+        height: 100px;
+        margin: 10px;
+        margin-top: 20px;
+        
+}
+
+.social-texts{
+        display: flex;
+        justify-content: space-between;
+        margin-left: 20px;
+        margin-right: 20px;
+        font-weight: 600;
+        margin-top: 60px;
+        font-size: 1.2rem;
+}
+.social-btn button{
+        border: none;
+        background-color: rgb(209, 209, 222);
+        color: white;
+        font-size: 20px;
+        border-radius: 7px;
+        padding: 1px;
+        padding-left: 10px;
+        padding-right: 10px;
+}
+.social-icon{
+        height: 30px;
+}
+.links{
+     
+        display: flex;
+        flex-direction: column;
+        height: 200px;
+        width: 50%;
+       
+      /*   display: flex;
+        flex-direction: column;
+        margin-right: 280px;
+        margin-left: 200px; */
+      
+        
+}
+.links p{
+        margin-left: -90px;
+      font-size: 15px;
+        margin-top:0;
+       font-weight: 600;
+        padding-left: 20px;
+}
+.additional-links{
+      font-weight: 600;
+        width: 50%;
+       
+     /*    margin-right: 200px; */
+}
+.card-links{
+     
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+       margin-top: -5px;
+     
+       display: flex;
+}
+
+.bi-chevron-right{
+        font-size: 15px;
+        margin-left: 100px;
+}
+.bi-exclamation-circle-fill{
+        font-size: 15px;
+        color: rgb(223, 206, 51);
+}

@@ -1,0 +1,131 @@
+/* .main-domain-container{
+    border: 1px solid blue;
+    width: 90%;
+    margin-right: 20vh;
+    margin-left: 10vh;
+    
+} */
+.main-domain-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.section-domain-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.child-container-2 {
+  margin-top: -30px;
+  width: 85%;
+  height: 100%;
+
+  /* padding-right: 40px; */
+  padding-right: 20px;
+  padding-left: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.domain-container-1 {
+  border: 1px solid rgb(82, 70, 252);
+  width: 85%;
+  border-radius: 5px;
+  background-color: #f9f9e0;
+}
+.container-2 {
+  background-color: #fff;
+  border: none;
+  box-shadow: 0.3px 0.3px 0px 0.6px;
+}
+h6 {
+  color: rgb(183, 174, 174);
+}
+.child-container-1 {
+  display: flex;
+}
+.child-container-1 span {
+  border: 1px solid blue;
+  margin: 10px;
+  border-radius: 30px;
+  padding: 5px 2px;
+  text-align: center;
+  align-items: center;
+  height: 1.5rem;
+  font-size: 11px;
+  font-weight: 500;
+  background-color: rgb(150, 150, 215);
+}
+
+.domain-headings {
+  margin-top: 20px;
+
+  padding: 20px 0;
+}
+
+.domain p {
+  font-weight: 700;
+  font-size: 18px;
+  padding: 15px 0;
+}
+.single-domains p {
+  padding: 15px 0;
+}
+.price p {
+  padding: 15px 0;
+}
+
+.tags p {
+  font-size: 9px;
+  font-weight: 500;
+  margin-right: -50px;
+  margin-top: 30px;
+  padding: 10px 0;
+}
+
+.subscription {
+  display: flex;
+  margin-left: 450px;
+  margin-right: -100px;
+}
+.price p {
+  font-weight: 600;
+  margin-left: -5px;
+}
+.single-domains {
+  margin-right: -300px;
+  margin-left: 200px;
+}
+
+.single-domains p span {
+  color: rgb(50, 50, 198);
+  font-weight: 500;
+  text-decoration: underline;
+}
+.single-domains p {
+  font-weight: 500;
+}
+.sub-btns {
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.sub-btns button {
+  margin: 11px;
+  color: #fff;
+  font-weight: 600;
+  border: none;
+  background-color: rgb(37, 81, 201);
+  border-radius: 10px;
+  padding: 7px 0;
+  margin-right: -100px;
+}
+.sub-btns .renew-btn {
+  background-color: rgb(198, 207, 207);
+  color: grey;
+}
+.price p span {
+  color: red;
+  font-weight: normal;
+  text-decoration: line-through;
+}
